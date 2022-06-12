@@ -13,6 +13,17 @@ body{
     margin-left: auto;
     margin-right: auto;
 }
+.site-header{
+    display: flex;
+}
+.site-header-container{
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+    display: flex;
+
+}
 div b{
     color: yellowgreen;
 }
