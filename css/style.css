@@ -19,6 +19,7 @@ body{
 .site-header-container{
     display: flex;
     justify-content: space-between;
+    color: yellowgreen;
 }
 .logo{
     display: flex;
